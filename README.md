@@ -26,6 +26,8 @@
 
 - ⚡有事加我QQ，没事也可以加，我们好好聊聊~  
 
+- 🌐我的博客：[链接](https://acat.site)
+
 
 </td><td valign="top" width="50%">
 
