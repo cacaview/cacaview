@@ -1,47 +1,22 @@
-## **ciallo world！**  
-  
+![随机名言](https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true)
 
 <a href="https://github.com/cacaview" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/@Alias9721" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-  
+</a>
 
-<br/>  
+<br/>
 
+## About Me
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 在校大学牲一枚，平时爱搞一些小创意
-  
+<br/>
 
-- 🌱救命啊，真的不要再挂科啦老己（悲）
-  
+## Languages and Tools
 
-- 😘Debian爱好者，Linux小白一个
-  
-
-- ⚡有事加我QQ，没事也可以加，目前可以接单
-
-- 🌐我的L站：[链接](https://linux.do/u/cacaview)
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/93422894?v=4" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
 <div align="center">  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
@@ -58,26 +33,18 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-</div>  
+</div>
 
-<br/>  
+<br/>
 
-
-## Github Stats  
-
-
+## Github Stats
 
 ![GitHub 统计卡片](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cacaview)
 
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaview" alt="个人资料详情">
 
-
 <!-- gitanimals -->
+
 ![Git Animals](https://render.gitanimals.org/guilds/668749238833660322/draw)
 
-
-
 ![萌萌计数器](https://count.getloli.com/@cacaview)
-
-
