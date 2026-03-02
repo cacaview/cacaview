@@ -15,18 +15,18 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 南宁理工在校大学生一枚，人工智能专业的一枚学生  
+- 🔭 在校大学牲一枚，平时爱搞一些小创意
   
 
-- 🌱目前还在啃高等数学（悲）  
+- 🌱救命啊，真的不要再挂科啦老己（悲）
   
 
-- 😘Debian爱好者，Linux小白一个~  
+- 😘Debian爱好者，Linux小白一个
   
 
-- ⚡有事加我QQ，没事也可以加，我们好好聊聊~  
+- ⚡有事加我QQ，没事也可以加，目前可以接单
 
-- 🌐我的博客：[链接](https://acat.site)
+- 🌐我的L站：[链接](https://linux.do/u/cacaview)
 
 
 </td><td valign="top" width="50%">
