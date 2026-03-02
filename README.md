@@ -64,26 +64,20 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cacaview&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacaview&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=cacaview&&style=flat-square)  
-  
-
-<br/>  
 
 
-<br />
+
+![GitHub 统计卡片](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cacaview)
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cacaview" alt="个人资料详情">
+
+
+<!-- gitanimals -->
+![Git Animals](https://render.gitanimals.org/guilds/668749238833660322/draw)
+
+
+
+![萌萌计数器](https://count.getloli.com/@cacaview)
+
+
