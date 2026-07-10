@@ -119,8 +119,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cacaview&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacaview&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=cacaview&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs?username=cacaview&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
 
 </div>
 
@@ -147,7 +147,7 @@
 
 <div align="center">
 
-![Git Animals](https://render.gitanimals.org/cacaview/draw)
+![Git Animals](https://render.gitanimals.org/farms/cacaview)
 
 ![萌萌计数器](https://count.getloli.com/@cacaview)
 
